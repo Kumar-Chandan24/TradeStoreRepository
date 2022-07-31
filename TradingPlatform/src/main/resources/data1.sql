@@ -1,0 +1,4 @@
+INSERT INTO `TRADE_STORE` (TRADE_NO,Trade_Id, Version, Counter_Party_Id, Book_Id, Maturity_Date, Created_Date, Expired) VALUES (1,'T1',1,'CP-1','B1','2020-05-20','2022-07-29','N');
+INSERT INTO `TRADE_STORE` (TRADE_NO,Trade_Id, Version, Counter_Party_Id, Book_Id, Maturity_Date, Created_Date, Expired) VALUES (2,'T2',2,'CP-2','B1','2021-05-20','2022-07-29','N');
+INSERT INTO `TRADE_STORE` (TRADE_NO,Trade_Id, Version, Counter_Party_Id, Book_Id, Maturity_Date, Created_Date, Expired) VALUES (3,'T2',1,'CP-1','B1','2021-05-20','2015-03-14','N');
+INSERT INTO `TRADE_STORE` (TRADE_NO,Trade_Id, Version, Counter_Party_Id, Book_Id, Maturity_Date, Created_Date, Expired) VALUES (4,'T3',3,'CP-3','B2','2014-05-20','2022-07-29','Y');
